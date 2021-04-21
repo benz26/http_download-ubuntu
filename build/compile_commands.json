@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/leyi/code_2/http_test/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9     -std=c++11 -lcurl -pthread -g   -o CMakeFiles/a.out.dir/download_conn.cpp.o -c /home/leyi/code_2/http_test/download_conn.cpp",
+  "file": "/home/leyi/code_2/http_test/download_conn.cpp"
+},
+{
+  "directory": "/home/leyi/code_2/http_test/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9     -std=c++11 -lcurl -pthread -g   -o CMakeFiles/a.out.dir/download_conn_http.cpp.o -c /home/leyi/code_2/http_test/download_conn_http.cpp",
+  "file": "/home/leyi/code_2/http_test/download_conn_http.cpp"
+},
+{
+  "directory": "/home/leyi/code_2/http_test/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9     -std=c++11 -lcurl -pthread -g   -o CMakeFiles/a.out.dir/download_file.cpp.o -c /home/leyi/code_2/http_test/download_file.cpp",
+  "file": "/home/leyi/code_2/http_test/download_file.cpp"
+},
+{
+  "directory": "/home/leyi/code_2/http_test/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9     -std=c++11 -lcurl -pthread -g   -o CMakeFiles/a.out.dir/download_md5.cpp.o -c /home/leyi/code_2/http_test/download_md5.cpp",
+  "file": "/home/leyi/code_2/http_test/download_md5.cpp"
+},
+{
+  "directory": "/home/leyi/code_2/http_test/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9     -std=c++11 -lcurl -pthread -g   -o CMakeFiles/a.out.dir/download_thread.cpp.o -c /home/leyi/code_2/http_test/download_thread.cpp",
+  "file": "/home/leyi/code_2/http_test/download_thread.cpp"
+},
+{
+  "directory": "/home/leyi/code_2/http_test/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9     -std=c++11 -lcurl -pthread -g   -o CMakeFiles/a.out.dir/main.cpp.o -c /home/leyi/code_2/http_test/main.cpp",
+  "file": "/home/leyi/code_2/http_test/main.cpp"
+}
+]
